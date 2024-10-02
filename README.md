@@ -146,4 +146,8 @@ python3 congress_stock_trades_stock_price_update.py
 
 In the future these files will also aggregate Senator trade information. It is a more challenging task due to the fact that dynamically updated indices of recent trades are not available, requiring a Selenium based approach.
 
+### Government Grants delegated to Public Companies
+
+In the future I hope to add a scripts to aggregate information about grants given to Public Companies to investigate Representative awareness of government intervention in particular sectors.
+
 
